@@ -16,10 +16,10 @@ Active your virtual environment (Windows):
 
 Install the dependencies:  
 `pip install -r requirements.txt`
-  
+
 Now, you can get an error with the word_cloud installation. Alternatively, you
 can intall the package with the wheel file.  
-`cd install
+`cd install  
 pip install wordcloud-1.5.0-cp37-cp37m-win32.whl
 `
 
