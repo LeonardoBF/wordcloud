@@ -19,8 +19,6 @@ Install the dependencies:
 
 Now, you can get an error with the word_cloud installation. Alternatively, you
 can intall the package with the wheel file.  
-`cd install  
-pip install wordcloud-1.5.0-cp37-cp37m-win32.whl
-`
+`pip install install\wordcloud-1.5.0-cp37-cp37m-win32.whl`
 
 Ok, you're ready to run the project. Have fun!
